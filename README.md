@@ -11,23 +11,6 @@ This repository contains selected coursework projects for Advanced VLSI System D
 └── HW4/             # HW4: Cache & System Integration
 ```
 
-### Homework Folder Structure
-
-Each homework folder contains the following directories:
-
-```
-HWx/
-├── include/         # Header files (.svh)
-├── script/          # Synthesis and verification scripts
-│   ├── synthesis.tcl       # Synthesis script
-│   └── superlint.tcl       # Lint checking script
-├── sim/             # Simulation files
-│   ├── prog0-6/            # Test programs
-│   └── top_tb.sv           # Testbench
-├── src/             # RTL source code (.sv)
-└── Makefile         # Compilation and simulation script
-```
-
 ## Homework Contents
 
 ### [HW1: 5-Stage RISC-V CPU](HW1)
