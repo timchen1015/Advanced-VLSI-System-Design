@@ -1,0 +1,19 @@
+# Design Compiler files
+*.sdc
+*dc.setup
+synopsys_dc.setup
+
+# APR files
+**/APR/
+**/APR_new/
+
+# Synthesis folders
+**/syn/
+
+# Memory models(Confidential)
+**/data_array/
+**/tag_array/
+**/SRAM/
+**/ROM/
+**/DRAM/
+
